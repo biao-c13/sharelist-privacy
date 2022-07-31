@@ -1,4 +1,4 @@
-                                                        "隐私与条款"
+                                                        "Privacy Policy"
 
            "Privacy Policy for share list"
 
