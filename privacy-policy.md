@@ -1,165 +1,158 @@
-                                                        "Privacy Policy"
-
-           "Privacy Policy for share list"
-
-           "built the share app as a Commercial app. This SERVICE is provided by and is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at share list unless otherwise defined in this Privacy Policy
-
-          "Information Collection and Use"
-          
-            "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email, name, username, password, favorites. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app"
-       
-            * Google Play Services (https://policies.google.com/privacy) 
-      
-            * AdMob (https://support.google.com/admob/answer/6128543?hl=en) 
-        
-            * Google Analytics for Firebase (https://firebase.google.com/policies/analytics) 
-            * Firebase (https://firebase.google.com/support/privacy/)
-
-           
-           "Log Data"
-           
-            "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics."
-
-         
-            "Cookies"
-         
-            "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.This Service does not use these “cookies” but store user local date like favorite words on the user device. Furthermore, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service."
-
-         
-          "Service Providers",
-       
-         "I may employ third-party companies and individuals due to the following reasons:"
-         * To facilitate our Service;
-         * To provide the Service on our behalf;
-         * To perform Service-related services; or"
-         * To assist us in analyzing how our Service is used."
-      
-            "I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose."
-
-       
-       
-          "Security"
-
-            "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security."
-
-       
-       
-          "Links to Other Sites"
-
-            This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services
-
-          
-          "Children’s Privacy"
-
-            "These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions."
-
-          
-          "GDPR Data Protection Rights"
-  
-            "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.The right to erasure – You have the right to request that we erase your personal data, under certain conditions.The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
+Cookie Policy Preview
 
 
+COOKIE POLICY
 
-  
-                                                           "Terms & Conditions",
-     
+Last updated May 14, 2023
 
-          "Terms & Conditions"
-          
-            "By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to . is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for. The share list
-            app stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the share list app won’t work properly or at all. The app does use third-party services that declare their Terms and Conditions. Link to Terms and Conditions of third-party service providers used by the app:"
 
-            * Google Play Services (https://policies.google.com/privacy) 
-        
-            * AdMob (https://support.google.com/admob/answer/6128543?hl=en) 
-        
-            * Google Analytics for Firebase (https://firebase.google.com/policies/analytics) 
-            * Firebase (https://firebase.google.com/support/privacy/) 
- 
-            "You should be aware that there are certain things that will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left. If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app. Along the same lines, cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, cannot accept responsibility. With respect to ’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app. At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for the both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. does not promise that it will always update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device."
-    
-        
-          "Changes to This Terms and Conditions",
-       
-      
-            "I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page. These terms and conditions are effective as of 2022-02-13"
-  
-       
-          "Contact Us",
-       
-      
-            "If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at 
-            language@outlook.com. This Terms and Conditions page was generated by App Privacy Policy Generator"
+This Cookie Policy explains how Ristorante Tang uses cookies and similar technologies to recognize you when you visit our website at https://www.tanghouse.it ("Website"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
-      
-      
-                                                        "Disclaimer for share list",
+In some cases we may use cookies to collect personal information, or that becomes personal information if we combine it with other information.
 
-      
-          "Disclaimer for share list",
-        
-            "We are doing our best to prepare the content of this app. However, share list cannot warranty the expressions and suggestions of the contents, as well as its accuracy. In addition, to the extent permitted by the law, share list shall not be responsible for any losses and/or damages due to the usage of the information on our app. Our Disclaimer was generated with the help of the App Disclaimer Generator from App-Privacy-Policy.com. By using our app, you hereby consent to our disclaimer and agree to its terms. Any links contained in our app may lead to external sites are provided for convenience only. Any information or statements that appeared in these sites or app are not sponsored, endorsed, or otherwise approved by share list. For these external sites,  share list cannot be held liable for the availability of, or the content located on or through it. Plus, any losses or damages occurred from using these contents or the internet generally."
+What are cookies?
 
-      
-          "Consent",
-       
-            "By using our app, you hereby consent to our Privacy Policy and agree to its Terms and Conditions."
-    
-       
-            "if you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us."
+Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
 
-  
-            "This Privacy Policy applies only to our online activities and is valid for visitors to our application with regards to the information that they shared and/or collect in share list. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Free Privacy Policy Generator."
-        "Consent"
-     
-            "By using our website, you hereby consent to our Privacy Policy and agree to its terms."
-        "Information we collect"
-       
-            "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number."
-        "How we use your information"
-    
-            "We use the information we collect in various ways, including to:"
-       "-Provide, operate, and maintain our app"
-       "-Improve, personalize, and expand our app"
-       "-Understand and analyze how you use our app"
-       
-       "-Develop new products, services, features, and functionality"
-   
-            "-Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes"
-       "-Send you emails"
-        "-Send you words  and comunications"
-        "-Find and prevent fraud"
-        "Log Files"
-      
-            "share list follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information."
-       "-Cookies and Web Beacons"
-      
-            "Like any other website, share list uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.For more general information on cookies, please read the Cookies article on Generate Privacy Policy website."
-        "Google DoubleClick DART Cookie"
-        
-            "Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/adsOur Advertising Partners Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below. Google: https://policies.google.com/technologies/ads"
-        "Advertising Partners Privacy Policies"
-        
-            "You may consult this list to find the Privacy Policy for each of the advertising partners of share list.Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on share list, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.Note that share list has no access to or control over these cookies that are used by third-party advertisers."
-      "Third Party Privacy Policies"
-       
-            "share list's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites."
-       "CCPA Privacy Rights (Do Not Sell My Personal Information)"
-       
-            "Under the CCPA, among other rights, California consumers have the right to:Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.Request that a business delete any personal data about the consumer that a business has collected.Request that a business that sells a consumer's personal data, not sell the consumer's personal data.If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
-   "GDPR Data Protection Rights"
-      
-            "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.The right to erasure – You have the right to request that we erase your personal data, under certain conditions.The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
-        "hildren's Information"
-        
-            "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity. share list does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records."
-     "**Terms & Conditions**"
-        
-            "  By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to .is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.The share list app stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the share list app won’t work properly or at all.The app does use third-party services that declare their Terms and Conditions."
+Cookies set by the website owner (in this case, Ristorante Tang) are called "first-party cookies." Cookies set by parties other than the website owner are called "third-party cookies." Third-party cookies enable third-party features or functionality to be provided on or through the website (e.g., advertising, interactive content, and analytics). The parties that set these third-party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
 
-                                    
-                                    
-                                                              "Contact Us",
-          
+Why do we use cookies?
 
-            "If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at dailylanguage@outlook.com . This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator"
+We use first- and third-party cookies for several reasons. Some cookies are required for technical reasons in order for our Website to operate, and we refer to these as "essential" or "strictly necessary" cookies. Other cookies also enable us to track and target the interests of our users to enhance the experience on our Online Properties. Third parties serve cookies through our Website for advertising, analytics, and other purposes. This is described in more detail below.
+
+How can I control cookies?
+
+You have the right to decide whether to accept or reject cookies. You can exercise your cookie rights by setting your preferences in the Cookie Consent Manager. The Cookie Consent Manager allows you to select which categories of cookies you accept or reject. Essential cookies cannot be rejected as they are strictly necessary to provide you with services.
+
+The Cookie Consent Manager can be found in the notification banner and on our website. If you choose to reject cookies, you may still use our website though your access to some functionality and areas of our website may be restricted. You may also set or amend your web browser controls to accept or refuse cookies. 
+
+The specific types of first- and third-party cookies served through our Website and the purposes they perform are described in the table below (please note that the specific cookies served may vary depending on the specific Online Properties you visit):
+
+How can I control cookies on my browser?
+
+As the means by which you can refuse cookies through your web browser controls vary from browser to browser, you should visit your browser's help menu for more information. The following is information about how to manage cookies on the most popular browsers:
+Chrome
+Internet Explorer
+Firefox
+Safari
+Edge
+Opera
+In addition, most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit:
+Digital Advertising Alliance
+Digital Advertising Alliance of Canada
+European Interactive Digital Advertising Alliance
+
+What about other tracking technologies, like web beacons?
+
+Cookies are not the only way to recognize or track visitors to a website. We may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs"). These are tiny graphics files that contain a unique identifier that enables us to recognize when someone has visited our Website or opened an email including them. This allows us, for example, to monitor the traffic patterns of users from one page within a website to another, to deliver or communicate with cookies, to understand whether you have come to the website from an online advertisement displayed on a third-party website, to improve site performance, and to measure the success of email marketing campaigns. In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their functioning.
+
+Do you use Flash cookies or Local Shared Objects?
+
+Websites may also use so-called "Flash Cookies" (also known as Local Shared Objects or "LSOs") to, among other things, collect and store information about your use of our services, fraud prevention, and for other site operations.
+
+If you do not want Flash Cookies stored on your computer, you can adjust the settings of your Flash player to block Flash Cookies storage using the tools contained in the Website Storage Settings Panel. You can also control Flash Cookies by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash Cookies (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash Cookies that are not being delivered by the operator of the page you are on at the time).
+
+Please note that setting the Flash Player to restrict or limit acceptance of Flash Cookies may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with our services or online content.
+
+Do you serve targeted advertising?
+
+Third parties may serve cookies on your computer or mobile device to serve advertising through our Website. These companies may use information about your visits to this and other websites in order to provide relevant advertisements about goods and services that you may be interested in. They may also employ technology that is used to measure the effectiveness of advertisements. They can accomplish this by using cookies or web beacons to collect information about your visits to this and other sites in order to provide relevant advertisements about goods and services of potential interest to you. The information collected through this process does not enable us or them to identify your name, contact details, or other details that directly identify you unless you choose to provide these.
+
+How often will you update this Cookie Policy?
+
+We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal, or regulatory reasons. Please therefore revisit this Cookie Policy regularly to stay informed about our use of cookies and related technologies.
+
+The date at the top of this Cookie Policy indicates when it was last updated.
+
+Where can I get further information?
+
+If you have any questions about our use of cookies or other technologies, please email us at tang@tanghouse.it or call +39 051 0876494:
+
+
+This cookie policy was created using Termly's Cookie Consent Manager.
+
+
+
+
+
+
+
+Privacy Policy of www.tanghouse.it
+In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
+Owner and Data Controller
+Ristorante Tang
+Owner contact email: tang@tanghouse.it
+Types of Data collected
+The owner does not provide a list of Personal Data types collected.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.
+Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.
+Any use of Cookies – or of other tracking tools — by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
+Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+Mode and place of processing the Data
+Methods of processing
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
+Legal basis of processing
+The Owner may process Personal Data relating to Users if one of the following applies:
+Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+processing is necessary for compliance with a legal obligation to which the Owner is subject;
+processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+Place
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
+
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
+Retention time
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
+Therefore:
+Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
+
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right of access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+
+
+The rights of Users
+Users may exercise certain rights regarding their Data processed by the Owner.
+In particular, Users have the right to do the following, to the extent permitted by law:
+Withdraw their consent at any time. Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+Object to processing of their Data. Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+Restrict the processing of their Data. Users have the right to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+Have their Personal Data deleted or otherwise removed. Users have the right to obtain the erasure of their Data from the Owner.
+Receive their Data and have it transferred to another controller. Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance.
+Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.
+Details about the right to object to processing
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time, free of charge and without providing any justification. Where the User objects to processing for direct marketing purposes, the Personal Data will no longer be processed for such purposes. To learn whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
+How to exercise these rights
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be answered by the Owner as early as possible and always within one month, providing Users with the information required by law. Any rectification or erasure of Personal Data or restriction of processing will be communicated by the Owner to each recipient, if any, to whom the Personal Data has been disclosed unless this proves impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.
+Additional information about Data collection and processing
+Legal action
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+Additional information about User's Personal Data
+In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+System logs and maintenance
+For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) or use other Personal Data (such as the IP Address) for this purpose.
+Information not contained in this policy
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+How “Do Not Track” requests are handled
+This Application does not support “Do Not Track” requests.
+To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+Changes to this privacy policy
+The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Application and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
+
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
